@@ -1,7 +1,8 @@
 # Hi there, I'm [ younes salimnezhad ] 👋
 
-
-![Profile Banner](https://banner-79b.pages.dev/) <!-- Replace with your own banner image -->
+<p> align="center">
+<img src="src/js.svg"/>
+</p>
 
 I'm a [Your Role/Title] specializing in [Your Specialization]. Passionate about building impactful projects and continuously learning. Welcome to my GitHub profile!
 
