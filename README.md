@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  JavaScript | React | Node.js Developer
+  <h1> JavaScript | React | Node.js Developer </h1>
 <img src="src/all.svg"/>
 </p>
 
