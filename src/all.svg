@@ -50,15 +50,15 @@
 	}
 	
 	#layer1{
-		animation: slide-top 3s linear 0s infinite normal backwards;*/
+		animation: slide-top 5s linear 0s infinite normal backwards;*/
 	}
 	
 	#layer2{
-		animation: slide-top 4s linear 0s infinite normal backwards;*/
+		animation: slide-top 8s linear 0s infinite normal backwards;*/
 	}
 	
 	#layer3{
-		animation: slide-top 1.5s linear 0s infinite normal backwards;*/
+		animation: slide-top 4s linear 0s infinite normal backwards;*/
 	}
 	
 	@keyframes slide-top {
