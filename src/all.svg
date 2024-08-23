@@ -58,7 +58,7 @@
 	}
 	
 	#layer3{
-		animation: slide-top 4s linear 0s infinite normal backwards;*/
+		animation: slide-top 6s linear 0s infinite normal backwards;*/
 	}
 	
 	@keyframes slide-top {
