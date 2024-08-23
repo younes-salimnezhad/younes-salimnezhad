@@ -41,7 +41,7 @@
 	.at-item {
  
 		animation-name: slide-top;
-		animation-duration: 2s;
+		animation-duration: 4s;
 		animation-timing-function: linear;
 		animation-delay: 0s;
 		animation-iteration-count: infinite;
