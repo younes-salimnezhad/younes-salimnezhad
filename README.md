@@ -1,7 +1,7 @@
 # Hi there, I'm [ younes salimnezhad ] 👋
 
 
-<p> align="center">
+<p align="center">
   JavaScript | React | Node.js Developer
 <img src="src/all.svg"/>
 </p>
