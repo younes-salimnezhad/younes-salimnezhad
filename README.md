@@ -1,36 +1,7 @@
 # Hi there, I'm [ younes salimnezhad ] 👋
-<svg width="100%" height="200px" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#282c34" />
 
-  <!-- Title -->
-  <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#61dafb" font-family="Arial, Helvetica, sans-serif">JavaScript | React | Node.js Developer</text>
 
-  <!-- Icons -->
-  <image x="30%" y="50%" width="48" height="48" href="https://img.icons8.com/color/48/000000/javascript.png" />
-  <image x="45%" y="50%" width="48" height="48" href="https://img.icons8.com/color/48/000000/react-native.png" />
-  <image x="60%" y="50%" width="48" height="48" href="https://img.icons8.com/color/48/000000/nodejs.png" />
-
-  <!-- Animation Styles -->
-  <style>
-    @keyframes float {
-      0% {
-        transform: translateY(0px);
-      }
-      50% {
-        transform: translateY(-10px);
-      }
-      100% {
-        transform: translateY(0px);
-      }
-    }
-    image {
-      animation: float 3s ease-in-out infinite;
-    }
-  </style>
-</svg>
-
-![Profile Banner](https://github-profile-34h.pages.dev/index.html) <!-- Replace with your own banner image -->
+![Profile Banner](https://banner-79b.pages.dev/) <!-- Replace with your own banner image -->
 
 I'm a [Your Role/Title] specializing in [Your Specialization]. Passionate about building impactful projects and continuously learning. Welcome to my GitHub profile!
 
