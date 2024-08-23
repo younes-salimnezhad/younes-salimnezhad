@@ -1,6 +1,6 @@
 # Hi there, I'm [ younes salimnezhad ] 👋
 
-![Profile Banner](https://github-profile-34h.pages.dev/) <!-- Replace with your own banner image -->
+![Profile Banner](github-profile-34h.pages.dev) <!-- Replace with your own banner image -->
 
 I'm a [Your Role/Title] specializing in [Your Specialization]. Passionate about building impactful projects and continuously learning. Welcome to my GitHub profile!
 
