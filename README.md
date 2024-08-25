@@ -1,9 +1,6 @@
 ### Hi there, I'm [ younes salimnezhad ] 👋
 
-<p align="center">
-  <h1 align="center"> JavaScript | React | Node.js Developer </h1>
-<img src="src/all.svg" width:"100vh"/>
-</p>
+## javaScript | React | Node.js
 
 ```javascript
 import React from "react";
