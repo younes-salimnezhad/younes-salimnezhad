@@ -6,14 +6,25 @@
 </p>
 
 ```javascript
-function introduceMyself() {
-  const name = "younes salimnezhad";
-  const profession = "Web Development ";
+import React from "react";
+
+function IntroduceMyself() {
+  const name = "Younes Salimnezhad";
+  const profession = "Web Development";
   const favoriteLanguage = "JavaScript";
   const hobbies = ["coding", "reading", "learning"];
+
+  return (
+    <div>
+      <h1>Hello, my name is {name}.</h1>
+      <p>I am a {profession} professional.</p>
+      <p>My favorite programming language is {favoriteLanguage}.</p>
+      <p>In my free time, I enjoy {hobbies.join(", ")}.</p>
+    </div>
+  );
 }
 
-introduceMyself();
+export default IntroduceMyself;
 ```
 
 ## 🚀 About Me
