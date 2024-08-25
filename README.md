@@ -1,43 +1,6 @@
 ### Hi there, I'm [ younes salimnezhad ] 👋
 
-# JavaScript, React, Node.js Animation
-
-<svg viewBox="0 0 400 400" width="100%" height="30%" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .rotate {
-        animation: rotation 6s infinite linear;
-        transform-origin: center;
-      }
-      @keyframes rotation {
-        from {
-          transform: rotate(0deg);
-        }
-        to {
-          transform: rotate(360deg);
-        }
-      }
-      .icon {
-        width: 25px;
-        height: 25px;
-      }
-    </style>
-  </defs>
-  <!-- JavaScript logo -->
-  <g class="rotate">
-    <image href="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" x="180" y="50" class="icon" />
-  </g>
-  <!-- React logo -->
-  <g class="rotate" style="animation-delay: -2s;">
-    <image href="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" x="300" y="180" class="icon" />
-  </g>
-  <!-- Node.js logo -->
-  <g class="rotate" style="animation-delay: -4s;">
-    <image href="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" x="60" y="180" class="icon" />
-  </g>
-  <!-- Center circle -->
-  <circle cx="200" cy="200" r="20" fill="#333" />
-</svg>
+<img src="my.svg" alt="Alt text" width="500"/>
 
 ## javaScript | React | Node.js
 
