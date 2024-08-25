@@ -5,7 +5,16 @@
 <img src="src/all.svg" width:"100vh"/>
 </p>
 
-I'm a [ web Development ] specializing in [css3 , javaScript , reaceJs ]. Passionate about building impactful projects and continuously learning. Welcome to my GitHub profile!
+function introduceMyself() { const name = "younes salimnezad"; const profession = "Web Development "; const favoriteLanguage = "JavaScript"; const hobbies = ["coding", "reading", "learning"];
+
+    console.log(`Hello, my name is ${name}.`);
+    console.log(`I am a ${profession}.`);
+    console.log(`My favorite programming language is ${favoriteLanguage}.`);
+    console.log(`In my free time, I enjoy ${hobbies.join(", ")}.`);
+
+}
+
+introduceMyself();
 
 ## 🚀 About Me
 
