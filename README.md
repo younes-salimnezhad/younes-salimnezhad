@@ -59,7 +59,3 @@ export default IntroduceMyself;
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/younes-salimnezhad-a78747215/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourprofile) [![Website](https://img.shields.io/badge/-Website-FF7139?logo=firefox&logoColor=white&style=flat)](https://yourwebsite.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:ysalimnezhad@gmail.com)
-
-```
-
-```
