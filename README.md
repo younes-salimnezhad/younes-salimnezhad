@@ -7,7 +7,7 @@
 
 ```javascript
 function introduceMyself() {
-  const name = "younes salimnezad";
+  const name = "younes salimnezhad";
   const profession = "Web Development ";
   const favoriteLanguage = "JavaScript";
   const hobbies = ["coding", "reading", "learning"];
