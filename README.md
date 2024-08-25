@@ -2,8 +2,6 @@
 
 # JavaScript, React, Node.js Animation
 
-Here’s an example of a responsive SVG animation that represents JavaScript, React, and Node.js:
-
 <svg viewBox="0 0 400 400" width="100%" height="30%" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
@@ -41,7 +39,7 @@ Here’s an example of a responsive SVG animation that represents JavaScript, Re
   <circle cx="200" cy="200" r="20" fill="#333" />
 </svg>
 
-## javaScript | React | Node.js ```javascript
+## javaScript | React | Node.js
 
 ```javascript
 import React from "react";
