@@ -1,6 +1,13 @@
 ### Hi there, I'm [ younes salimnezhad ] 👋
 
+<div style= "display: flex;
+justify-content: center;
+align-items: center; 
+height: 100vh; "
+
 ![SVG](./img/my.svg)
+
+</div>
 
 ## javaScript | React | Node.js
 
