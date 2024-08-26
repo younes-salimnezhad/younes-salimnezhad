@@ -1,8 +1,8 @@
 ### Hi there, I'm [ younes salimnezhad ] 👋
 
 <div style="display: flex;
-      justify-content: center; /* Horizontally centers */
-      align-items: center; /* Vertically centers */
+      justify-content: center; 
+      align-items: center; 
       height: 100vh;">
     <img src="./img/my.svg" alt="SVG" class="svg-icon" />
   </div>
