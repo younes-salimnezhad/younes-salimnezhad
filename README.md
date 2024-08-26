@@ -1,13 +1,13 @@
 ### Hi there, I'm [ younes salimnezhad ] 👋
 
-<div style= " display:flex;
+<h1 style= " display:flex;
 justify-content: center;
 align-items: center; 
  "
 
 ![SVG](./img/my.svg)
 
-</div>
+</h1>
 
 ## javaScript | React | Node.js
 
