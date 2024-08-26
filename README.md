@@ -1,6 +1,6 @@
 ### Hi there, I'm [ younes salimnezhad ] 👋
 
-<div style="display: flex;
+<div style="
       justify-content: center; 
       align-items: center; 
       height: 100vh;">
