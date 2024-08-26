@@ -1,6 +1,6 @@
 ### Hi there, I'm [ younes salimnezhad ] 👋
 
-<img src="my.svg" alt="Alt text" width="500"/>
+![SVG](./img/my.svg)
 
 ## javaScript | React | Node.js
 
