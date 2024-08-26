@@ -1,9 +1,11 @@
 ### Hi there, I'm [ younes salimnezhad ] 👋
 
-<div style="
+<div style="display: flex;
       justify-content: center; 
       align-items: center; 
-      height: 100vh;">
+      height: 100vh;
+      width:100%;
+      height:auto">
     <img src="./img/my.svg" alt="SVG" class="svg-icon" />
   </div>
 
