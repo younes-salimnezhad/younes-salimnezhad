@@ -20,9 +20,9 @@ function IntroduceMyself() {
   const hobbies = ["coding", "reading", "learning"];
   return (
     <div>
-      <h1>Hello, my name is {name}.</h1>
-      <p>I am a {profession} professional.</p>
-      <p>My favorite programming language is {favoriteLanguage}.</p>
+      <h1>Hello, my name is {younes}.</h1>
+      <p>I am a {softWare Developer } professional.</p>
+      <p>My favorite programming language is {JS}.</p>
       <p>In my free time, I enjoy {hobbies.join(", ")}.</p>
     </div>
   );
